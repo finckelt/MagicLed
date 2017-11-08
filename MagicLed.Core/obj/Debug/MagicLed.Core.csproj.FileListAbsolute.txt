@@ -1,0 +1,9 @@
+C:\Users\maxus\Documents\Visual Studio 2017\Projects\MagicLed\MagicLed.Core\bin\Debug\MagicLed.Core.dll
+C:\Users\maxus\Documents\Visual Studio 2017\Projects\MagicLed\MagicLed.Core\bin\Debug\MagicLed.Core.pdb
+C:\Users\maxus\Documents\Visual Studio 2017\Projects\MagicLed\MagicLed.Core\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\maxus\Documents\Visual Studio 2017\Projects\MagicLed\MagicLed.Core\bin\Debug\Ninject.dll
+C:\Users\maxus\Documents\Visual Studio 2017\Projects\MagicLed\MagicLed.Core\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\maxus\Documents\Visual Studio 2017\Projects\MagicLed\MagicLed.Core\bin\Debug\Ninject.xml
+C:\Users\maxus\Documents\Visual Studio 2017\Projects\MagicLed\MagicLed.Core\obj\Debug\MagicLed.Core.csproj.CoreCompileInputs.cache
+C:\Users\maxus\Documents\Visual Studio 2017\Projects\MagicLed\MagicLed.Core\obj\Debug\MagicLed.Core.dll
+C:\Users\maxus\Documents\Visual Studio 2017\Projects\MagicLed\MagicLed.Core\obj\Debug\MagicLed.Core.pdb
