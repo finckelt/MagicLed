@@ -7,3 +7,4 @@ C:\Users\maxus\Documents\Visual Studio 2017\Projects\MagicLed\MagicLed.Core\bin\
 C:\Users\maxus\Documents\Visual Studio 2017\Projects\MagicLed\MagicLed.Core\obj\Debug\MagicLed.Core.csproj.CoreCompileInputs.cache
 C:\Users\maxus\Documents\Visual Studio 2017\Projects\MagicLed\MagicLed.Core\obj\Debug\MagicLed.Core.dll
 C:\Users\maxus\Documents\Visual Studio 2017\Projects\MagicLed\MagicLed.Core\obj\Debug\MagicLed.Core.pdb
+C:\Users\uczen\Source\Repos\MagicLed\MagicLed.Core\obj\Debug\MagicLed.Core.csproj.CoreCompileInputs.cache
